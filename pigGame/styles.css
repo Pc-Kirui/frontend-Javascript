@@ -168,3 +168,7 @@ main {
   font-weight: 700;
   color: #8cd790;
 }
+
+.hidden {
+  display: none;
+}
